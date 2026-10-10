@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Junteng Liu, a Ph.D. candidate at the [HKUST NLP Group](https://hkust-nlp.github.io/), Hong Kong University of Science and Technology (HKUST), advised by [Professor Junxian He](https://henryjunxianhe.github.io/), who also advised me during my undergraduate studies at Shanghai Jiao Tong University (SJTU). My research focuses on natural language processing (NLP) and machine learning (ML).
+Hi! I am Junteng Liu, a Ph.D. candidate at the HKUST NLP Group, Hong Kong University of Science and Technology (HKUST), advised by Professor Junxian He, who also advised me during my undergraduate studies at Shanghai Jiao Tong University (SJTU). My research focuses on natural language processing (NLP) and machine learning (ML).
 
 Research Interests and Skills
 ======
@@ -49,7 +49,7 @@ Publications
   Shiqi Chen, Miao Xiong, **Junteng Liu**, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He. *ICML 2024*.
 
 * **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models**  
-  Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, **Junteng Liu**, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He. *NeurIPS 2023*.
+  Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, **Junteng Liu**, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He. *NerIPS 2023*.
 
 * **Composing Parameter-Efficient Modules with Arithmetic Operations**  
   Jinghan Zhang, Shiqi Chen, **Junteng Liu**, Junxian He. *NeurIPS 2023*.
